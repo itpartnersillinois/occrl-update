@@ -1,0 +1,38 @@
+main.cover ilw-content {
+    img {
+        width: 100%;
+        max-width: 100%;
+    }
+    .cover-text {
+        background: var(--il-orange);
+        text-align: center;
+        padding: 0 1.25rem 2.5rem 1.25rem;
+
+        h1 {
+            margin: 0;
+            padding: 0;
+            span {
+                display: block;
+                color: white;
+                font-style: normal;
+                font-weight: 700;
+                text-align: center;
+                font-family: var(--il-font-heading);
+            }
+            span.impact {
+                font-size: max(5.5vw, 2.6rem);
+                line-height: 2.95rem;
+                margin-top: 2.5rem;
+                text-transform: uppercase;
+            }
+            span.education {
+                font-size: max(2.3vw, 1.1875rem);
+                font-weight: 700;
+                line-height: 1.48rem;
+                font-family: var(--il-font-sans);
+                padding-top: calc(2.5vw + .5rem);
+                padding-bottom: 2.5rem;
+            }
+        }
+    }
+}

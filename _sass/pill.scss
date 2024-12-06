@@ -1,0 +1,40 @@
+.section-pill {
+    border-radius: 0.25rem;
+    color: white;
+    background: black;
+    display: flex;
+    padding: 0rem 0.375rem;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    font-weight: bold;
+}
+.section-pill.Innovation {
+    background: #773ea3;
+}
+.section-pill.Discovery {
+    background: #ff5f05;
+}
+.section-pill.Community {
+    background: #ffbe2e;
+    color: black;
+}
+.section-pill.Momentum {
+    background: #007e8e;
+}
+
+.crea .section-pill.Discovery {
+    position: absolute;
+    z-index: 10;
+    text-align: center;
+    left: 50px;
+    top: 450px;
+}
+
+.indigenous .section-pill.Community {
+    position: absolute;
+    z-index: 10;
+    left: 40px;
+    text-align: center;
+    top: 40px;
+}

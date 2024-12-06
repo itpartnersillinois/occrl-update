@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <div class="page new-faculty-page">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main>
+            <ilw-hero alwayson="true" align="bottom-left"><img src="/img/new-faculty/background.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
+            <ilw-columns theme="blue" width="fixed">
+                <ilw-statistic theme="blue" ><span slot="stat">80</span> Tenure System Faculty</ilw-statistic>
+                <ilw-statistic theme="blue" ><span slot="stat">27</span> Specialized Faculty</ilw-statistic>
+                <ilw-statistic theme="blue" ><span slot="stat">31%</span> Tenure System Faculty From Underrepresented Populations</ilw-statistic>
+            </ilw-columns>
+            <ilw-content width="page">
+            <div class="new-faculty">
+            {%- for person in new-faculty %}
+                <div>
+                <img src="/img/new-faculty/{{ person.netid }}.jpg" alt="">
+                <h2><a href="https://education.illinois.edu/profile/{{ person.netid }}">{{ person.name }}</a></h2> 
+                <p class="new-faculty-title">{{ person.title }}</p>
+                <p>{{ person.text }}</p>
+                <p>"{{ person.quote }}"</p>
+                </div>
+            {% endfor -%}
+            </div>
+            </ilw-content>
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </div>
+    </body>
+</html>

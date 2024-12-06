@@ -1,0 +1,21 @@
+ilw-statistic {
+    --ilw-statistic-margin: 0;
+    --ilw-statistic-padding: 1rem 0;
+    --ilw-statistic--stat-padding: 0;
+}
+
+@media (min-width: 800px) {
+    ilw-statistic {
+        --ilw-statistic--stat-padding: 0.8rem 0 1.75rem 0;
+    }
+}
+
+ilw-statistic.orange {
+    --ilw-statistic--stat-color: var(--il-orange);
+}
+
+ilw-statistic.compact {
+    margin: 0 auto; 
+    max-width: 80%;
+}
+

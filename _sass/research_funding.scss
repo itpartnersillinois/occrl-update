@@ -1,0 +1,29 @@
+.research-funding {
+    img {
+        width: 112px;
+        display: inline-block;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+        line-height: 1.667rem;
+        margin-top: 1.3125rem;
+        margin-bottom: 0rem;
+    }
+
+    h3 + p {
+        margin-top: 0.625rem;
+    }
+}
+
+@media (min-width: 800px) {
+    .research-brief-images {
+        float: left;
+        padding: 25px 20px 20px 0;
+        margin-top: 0;
+        clear: both;
+    }
+    h3 {
+        margin-top: 40px;
+    }
+}

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <div class="page">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main class="cover">
+            <ilw-content theme="orange">
+            <img src="/img/cover-hero.webp" alt="4 teenagers smiling and hugging each other on the Illinois campus, with Connection in script font" >
+            <div class="cover-text">
+            <h1><span class="impact">2024 Impact Report</span><span class="education">College of Education | University of Illinois Urbana-Champaign</h1>
+            <p><a href="/deans-message/index.html" class="ilw-button ilw-theme-blue-1">Get Started</a></p>
+            </div>
+            </ilw-content>
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </div>
+    </body>
+</html>

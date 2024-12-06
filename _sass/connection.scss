@@ -1,0 +1,19 @@
+.connection-page ilw-hero {
+    --ilw-hero--text-width: 80%;
+    --ilw-hero--height: 315px;
+}
+
+.connection {
+    margin: 40px;
+    display: block;
+    text-align: center;
+
+    img {
+        width: 213px;
+        padding: 30px;
+    }
+
+    h2 {
+        padding-top: 30px;
+    }
+}

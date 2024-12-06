@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <div class="page">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main id="article">
+            {% if headImage %}
+            <img src="{{ headImage }}" alt="{{ headAlt }}" class="ilw-image-cover headImage">
+            <ilw-spacer height="30px"></ilw-spacer>
+            {% else %}
+            <ilw-spacer height="60px"></ilw-spacer>
+            {% endif %}
+            <ilw-content width="page">
+                {% if section %}
+                <div class="section-pill {{ section }}">{{ section }}</div>
+                {% endif %}
+                <h1>{{ pageTitle }}</h1>
+                {% if byline %}
+                <p class="byline article-byline">{{ byline }}</p>
+                {% endif %}
+            </ilw-content>
+            {{ content }}
+            {% if readMore %}
+            <ilw-content width="page">
+            <p class="readmore"><a href="{{ readMore }}" class="ilw-button ilw-theme-blue-1">Read Full Story</a></p>
+            </ilw-content>
+            {% endif %}
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </div>
+    </body>
+</html>

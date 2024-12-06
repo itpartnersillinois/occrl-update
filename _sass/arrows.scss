@@ -1,0 +1,45 @@
+nav.arrows {
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
+
+nav.arrows a {
+    color: var(--il-blue);
+    border: 2px solid var(--il-blue);
+    display: inline-block;
+    border-radius: 0.25rem;
+    background: white;
+}
+
+nav.arrows a.back {
+    padding: 4px 4px 0 0;
+    margin-right: 10px;
+}
+
+nav.arrows a.next {
+    padding: 4px 0 0 4px;
+    margin-left: 10px;
+}
+
+nav.arrows a:hover,
+nav.arrows a:focus {
+    background: var(--il-blue);
+    color: white;
+}
+
+@media (min-width: 800px) {
+    nav.arrows {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 500;
+    }
+    nav.arrows a.back {
+        margin-right: 5px;
+    }
+    
+    nav.arrows a.next {
+        margin-left: 5px;
+    }
+}

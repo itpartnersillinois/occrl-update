@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <div class="page">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main>
+            <div id="main-h1" class="main-h1-line">
+            <ilw-spacer height="60px"></ilw-spacer><ilw-content width="page">
+            <div class="section-pill Community">Community</div>
+            <h1>2024-25 Public Engagement Fellows</h1>
+            </ilw-content></div>
+
+            {{ content }}
+            <ilw-content width="page">
+            <div class="new-faculty">
+            {%- for person in public-engagement %}
+                <div>
+                <img src="/img/public-engagement/{{ person.netid }}.jpg" alt="">
+                <h2><a href="https://education.illinois.edu/profile/{{ person.netid }}">{{ person.name }}</a></h2> 
+                <p class="new-faculty-title">{{ person.title }}</p>
+                <p>{{ person.text }}</p>
+                </div>
+            {% endfor -%}
+            </div>
+            </ilw-content>
+
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </div>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+div.footer {
+    margin-top: 30px;
+}
+
+@media (min-width: 800px) {
+    div.footer {
+        clear: both;
+        padding-left: var(--menu-width);
+    }
+}

@@ -1,0 +1,96 @@
+main#article {
+    .byline {
+        font-style: italic;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 0.25rem;
+    }
+
+    ilw-content {
+        display: block;
+        clear: both;
+    }
+    ilw-content h2 {
+        color: var(--il-blue);
+        font-size: 2.1875rem;
+        line-height: 2.6875rem;
+    }
+
+    ilw-content h1 {
+        font-size: 2.5rem;
+        line-height: 2.875rem;
+    }
+
+    ilw-content h1:has(+ p.byline) {
+        margin-bottom: 0;
+    }
+
+    ilw-content p.introduction {
+        font-size: 1.5625rem;
+        font-weight: 600;
+        line-height: 1.8125rem;
+    }
+
+    .circle-column p {
+        text-align: center;
+    }
+
+    img.circle {
+        border-radius: 50%;
+        width: 300px;
+    }
+
+    .quote::before {
+        content: url(/img/orange-quote.png);
+        padding-right: 6px;
+    }
+
+    .quote {
+        font-size: 1.2em;
+    }
+
+    .float-left, .left, .float-right, .right, .half {
+        font-style: italic;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    img.small {
+        width: 150px;
+    }
+}
+
+.margin-90 {
+    margin: auto;
+    width: 90%;
+}
+
+@media (min-width: 600px) {
+    main#article {
+        .float-left, .left {
+            width: 200px;
+            float: left;
+            padding: 0 20px 20px 0;
+        }
+        .float-right, .right {
+            width: 200px;
+            float: right;
+            padding: 0 0 20px 20px;
+        }
+    }
+}
+
+
+@media (min-width: 800px) {
+    main#article {
+        .half {
+            max-width: 400px;
+            float: left;
+            width: 40%;
+            padding: 0 20px 20px 0;
+            margin: 0;
+       }
+    }
+}

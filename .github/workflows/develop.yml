@@ -1,0 +1,26 @@
+name: develop
+on:
+  push:
+    branches:
+    - develop
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - run: npm install
+    - run: npm rebuild
+    - run: npm run-script gulp
+    - run: npm run-script eleventy
+    - run: npm run-script copy2020
+    - run: npm run-script copy2021
+    - run: npm run-script copy2022
+    - run: npm run-script copy2023
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: AKIA5X3UWDX5DSDP6FIR
+        aws-secret-access-key: ${{ secrets.IMPACTREPORT_SECRET_KEY }}
+        aws-region: us-east-2
+    - name: Deploy static site to S3 bucket
+      run: aws s3 sync ./_site/ s3://edimpactreport2021 --delete --acl bucket-owner-full-control

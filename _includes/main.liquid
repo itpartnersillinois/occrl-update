@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <div class="page">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main>
+            {{ content }}
+            {% include arrows.liquid %}
+        </main>
+    </div>
+    {% include footer.liquid %}
+    </body>
+</html>

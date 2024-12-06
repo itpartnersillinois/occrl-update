@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <div class="page">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main id="article">
+            {% if headImage %}
+            <img src="{{ headImage }}" alt="{{ headAlt }}" class="ilw-image-cover headImage">
+            <ilw-spacer height="30px"></ilw-spacer>
+            {% endif %}
+            <ilw-content width="page">
+                <div class="section-pill {{ section }}">{{ section }}</div>
+                <ilw-spacer height="30px"></ilw-spacer>
+                <h1 class="what-happens-title">What Happens When Students Follow Their Passion?</h1>
+                <p class="what-happens-subtitle">Good things.</p>
+                <p class="byline">{{ byline }}</p>
+            </ilw-content>
+            {{ content }}
+            {% if readMore %}
+            <ilw-content width="page">
+            <p class="readmore"><a href="{{ readMore }}" class="ilw-button ilw-theme-blue-1">Read Full Story</a></p>
+            </ilw-content>
+            {% endif %}
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </div>
+    </body>
+</html>

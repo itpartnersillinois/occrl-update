@@ -1,0 +1,31 @@
+.program-rankings .program-ranking-stats ul {
+    padding-left: 0;
+}
+
+.program-rankings .program-ranking-stats ul li {
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+.program-rankings .program-ranking-stats ul li strong {
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+    display: inline-block;
+    padding-right: 4px;
+    vertical-align: middle;
+}
+
+.program-rankings .program-milestones h3 {
+    margin-bottom: 0.625rem;
+}
+
+.program-rankings .program-milestones ul {
+    margin-top: 0;
+}
+
+@media (min-width: 800px) {
+.program-rankings .float-right-desktop {
+    float: right;
+    width: 200px;
+}
+}

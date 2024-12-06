@@ -1,0 +1,17 @@
+#main-h1 h1 {
+    font-size: 2.5rem;
+    line-height: 2.875rem;
+}
+
+#main-h1.main-h1-line h1 {
+    border-bottom: 1px solid var(--il-orange);
+    padding-bottom: 20px;
+}
+
+h2.orange, h3.orange, h4.orange { 
+    color: var(--il-orange);
+}
+
+ilw-content h1.no-bottom-margin {
+    margin-bottom: 0;
+}

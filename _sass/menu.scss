@@ -1,0 +1,207 @@
+header nav {
+  display: none;
+  z-index: 600;
+  position: absolute;
+  left: 0;
+  width: 80%;
+  background-color: var(--heading-background);
+
+  a.menu-link {
+    align-items: center;
+    border: none;
+    color: var(--heading-color);
+    display: flex;
+    padding: 1em;
+    font-family: var(--il-font-sans);
+    font-weight: 700;
+    font-size: 1rem;
+    text-decoration: none;
+  }
+
+  .menu-title {
+    display: none;
+    padding: 1rem;
+
+    a {
+      font-size: 25px;
+      line-height: 29px;
+      font-family: var(--il-font-sans);
+      font-weight: 700;
+      color: var(--il-blue);
+      text-decoration: none;
+    }
+
+    a:focus, a:hover {
+      text-decoration: underline;
+      color: var(--il-altgeld);
+    }
+  }
+}
+
+.disclosure-nav {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+
+  a {
+    border: 0;
+    background: var(--heading-background);
+    color: var(--heading-color);
+    display: block;
+    margin: 0;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    font-family: var(--il-font-sans);
+    font-weight: bold;
+    font-size: 1rem;
+  }
+
+  a[aria-current] {
+    border-left: 2px solid var(--il-orange);
+  }
+
+  a:hover,
+  a:focus {
+    --heading-background: var(--il-blue);
+    --heading-color: white;
+    text-decoration: none;
+  }
+
+  ul {
+    background-color: var(--heading-background);
+    border: none;
+    border-top-width: 5px;
+    border-radius: 0 0 4px 4px;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    min-width: 200px;
+    padding: 0;
+    top: 100%;
+
+    li {
+      margin: 0;
+      display: flex;
+      position: relative;
+      flex-direction: column;
+    }
+  }
+
+  li.line {
+    border-top: 2px solid #C6C7C6;
+    margin-top: 10px;
+  }
+
+  button {
+    align-items: center;
+    background-color: var(--heading-background);
+    border: none;
+    color: var(--heading-color);
+    display: flex;
+    padding: 1em;
+    font-family: var(--il-font-sans);
+    font-weight: bold;
+    font-size: 1rem;
+    width: 100%;
+  }
+
+  button.menu-button-active {
+    border-left: 6px solid var(--il-orange);
+  }
+
+  button:hover,
+  button:focus,
+  button[aria-expanded="true"] {
+    --heading-background: var(--il-blue);
+    --heading-color: white;
+  }
+
+  .icon {
+    width: 16px;
+    height: 16px;
+    padding-left: 10px;
+    fill: var(--heading-color);
+  }
+
+  ul.submenu {
+    padding-left: 30px;
+  }
+}
+
+#menu-button {
+  display: inline-block;
+  position: relative;
+  margin: 0px;
+  padding: 0px 20px 0px 40px;
+  border: 0px;
+  border-radius: 4px;
+  background-color: var(--il-blue);
+  color: white;
+  font: 700 20px / 44px var(--il-font-sans);
+  text-transform: uppercase;
+
+  svg {
+    fill: currentcolor;
+    position: absolute;
+    left: 14px;
+    top: 13px;
+    display: block;
+    width: 16px;
+    height: 16px;
+    fill: currentcolor;
+  }
+
+  svg.menu-close {
+    display: none;
+  }
+
+  span {
+    color: white;
+  }
+}
+
+#menu-button:hover,
+#menu-button:focus {
+  background-color: var(--il-altgeld);
+}
+
+#menu-button[aria-expanded="true"] svg.menu-close {
+  display: block;
+}
+
+#menu-button[aria-expanded="true"] svg.menu-icon {
+  display: none;
+}
+
+@media (min-width: 800px) {
+  header nav {
+    .menu-title {
+      display: block;
+    }
+  }
+
+  #menu-button {
+    display: none;
+  }
+
+  header {
+    nav {
+      position: initial;
+      width: 100%;
+      display: block;
+    }
+  }
+
+  .disclosure-nav {
+    button {
+      text-align: left;
+      display: flex;
+
+      span.text {
+        flex-grow: 1;
+      }
+    }
+  }
+}
