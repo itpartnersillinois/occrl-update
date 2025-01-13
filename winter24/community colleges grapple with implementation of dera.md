@@ -1,6 +1,6 @@
 ---
 layout: article.liquid
-pageTitle: Community Colleges Grapple with Implementation of DERA
+pageTitle: Community Colleges Grapple with Implementation of DERA: A Paradigm Shift in Developmental Education
 byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 section: 
 readMore: 
