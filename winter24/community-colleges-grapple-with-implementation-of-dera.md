@@ -1,6 +1,6 @@
 ---
 layout: article.liquid
-pageTitle: Community Colleges Grapple with Implementation of DERA: A Paradigm Shift in Developmental Education
+pageTitle: this is a test
 byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 headImage: /img/discovery/sax.jpg
 headAlt: A girl playing saxaphone
