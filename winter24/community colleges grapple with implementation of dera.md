@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Community Colleges Grapple with Implementation of DERA
-byline: By Andy Olson, Office of the Vice Chancellor for Research and Innovation, University of Illinois
+byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 section: Innovation
 readMore: https://education.illinois.edu/about/news-events/news/article/2024/08/12/addressing-perinatal-mental-health-issues-through-a-collaborative-research-approach
 ---
