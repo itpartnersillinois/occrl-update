@@ -5,7 +5,7 @@ byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 headImage: /img/discovery/sax.jpg
 headAlt: A girl playing saxaphone
 bodyClass: good-things
-readMore: https://education.illinois.edu/about/news-events/news/article/2024/06/14/what-happens-when-you-allow-students-to-follow-their-passion-good-things
+readMore: 
 ---
 <ilw-content width="page">
 
