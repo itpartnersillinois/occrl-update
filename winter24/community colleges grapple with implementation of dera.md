@@ -9,6 +9,8 @@ readMore:
 
 ![Cartoon of a pregnant woman being treated by a physician](/img/librariesprovider2/occrl/logos/occrl-core-areas_2.jpg)
 
+	![alt text](designer.jpg)
+
 ## Community Colleges Grapple with Implementation of DERA: A Paradigm Shift in Developmental Education
 
 **Introduction**
