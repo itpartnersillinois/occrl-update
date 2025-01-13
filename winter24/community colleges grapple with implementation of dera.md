@@ -9,8 +9,6 @@ readMore:
 ---
 <ilw-content width="page">
 
-**Kaylin Ratner** has been studying the impact on students when they are allowed to choose—in a beyond-school-time program—their own learning challenge. The results are fascinating.{.introduction}
-
 ![Kaylin Ratner](/img/discovery/ratner.jpg) 
 *Photo by Fred Zwicky* {.float-left}
 
