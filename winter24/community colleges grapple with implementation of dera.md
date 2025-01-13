@@ -2,24 +2,18 @@
 layout: article.liquid
 pageTitle: Community Colleges Grapple with Implementation of DERA
 byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
-section: Innovation
-readMore: https://education.illinois.edu/about/news-events/news/article/2024/08/12/addressing-perinatal-mental-health-issues-through-a-collaborative-research-approach
+section: 
+readMore: 
 ---
 <ilw-content width="page">
 
-Illinois researchers are developing better practices for supporting perinatal mental health needs.{.introduction}
-
 ![Cartoon of a pregnant woman being treated by a physician](/img/innovation/perinatal.webp)
 
-**Researchers at Illinois are combining forces to tackle the leading cause of death for pregnant women in the United States: mental health.**
+## Introduction
 
-**Karen Tabb Dina**, one of the nation’s top researchers in perinatal mental health studies, is co-leading an effort to change that statistic with collaborator and Education Policy, Organization & Leadership professor **David Huang**, who specializes in instructional system design and implementation.
+Illinois community colleges continue to innovate amid legislative changes and a recent shift in administering developmental education prompted by the Developmental Education Reform Act (DERA). Developmental education aims to support students with diverse needs and strengthen math, reading, and writing skills in preparation for college-level courses. However, racially minoritized students are disproportionately placed in development education courses and at lower levels, often requiring them to complete multiple pre-college courses (Brown, 2022; Chen & Simone, 2016). Researchers note that this placement creates greater equity gaps among students. Scholarship indicates that many community college students will test into developmental education courses, particularly in mathematics and language skills, for college-level coursework (Chen & Simone, 2016; Jaggars & Bickerstaff, 2018). In 2014, nearly half of the community college students in Illinois were placed into a developmental education course (Abrahamson & Power, 2024). 
 
-“One in three people that give birth will experience a perinatal mental health problem,” said Tabb Dina, a School of Social Work professor. She noted that number has been climbing since the start of COVID, and that some people are especially impacted, including those who are Black or Native American/Alaska Native, as well as those with disabilities, low incomes, or living in rural areas.
-
-The research effort at Illinois is housed at the Beckman Institute for Advanced Science and Technology where Tabb Dina is an affiliate of a multi-university program called **Pathways to Perinatal Mental Health Equity**. The program’s focus is developing better practices for supporting perinatal mental health needs, and training researchers and medical professionals on those practices.
-
-“If it’s untreated, that presents risk for both mom and baby,” said Tabb Dina. “It could become substance-use for coping, gestational diabetes, poor birth outcomes, or increased C-sections. For the baby, that could lead to a stay in the NICU, having low birth weight, and trouble with cognition later on.”
+Illinois enacted DERA as part of Illinois HB 2170, passed by the Illinois General Assembly and signed into law by Governor JB Pritzker in March of 2021 (110 ILCS 175/ Developmental Education Reform Act, 2021). DERA mandates that all 48 community colleges in Illinois reform their course placement evaluation to use a multiple-measure placement framework. The goal of DERA is to create equitable pathways for historically excluded students by considering a variety of metrics for holistic assessment of students’ abilities. This approach redirects students away from non-credit development coursework and modifies curriculum practices to include a co-requisite model.
 
 <ilw-columns padding="3.75rem 0 0 0">
 <div>
