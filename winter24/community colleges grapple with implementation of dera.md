@@ -1,8 +1,7 @@
 ---
-layout: article-what-happens.liquid
-pageTitle: What Happens When Students Follow Their Passion?
-byline: By Tom Hanlon
-section: Discovery
+layout: article-community colleges grapple.liquid
+pageTitle: Community Colleges Grapple with Implementation of DERA: A Paradigm Shift in Developmental Education
+byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 headImage: /img/discovery/sax.jpg
 headAlt: A girl playing saxaphone
 bodyClass: good-things
