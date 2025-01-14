@@ -7,7 +7,7 @@ readMore:
 ---
 <ilw-content width="page">
 
-headImage: /winter24/img/funding.jpg
+headImage: /winter24/img/common course numbering.jpeg
 
 ## Common Ground: Increasing Equity Through Common Course Numbering
 
