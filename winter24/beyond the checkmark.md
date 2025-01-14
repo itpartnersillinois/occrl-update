@@ -69,9 +69,13 @@ The questions of program review teams can move beyond procedural obligations by 
 
 Suggestions for expanded data inquiry can include: 
 ●	Environmental scans or district demographic data
+
 ●	Regional labor market information
-●	Disaggregated data at the program, departmental, or institutional level across race, gender, age, income, and completion/graduation rates 
+
+●	Disaggregated data at the program, departmental, or institutional level across race, gender, age, income, and completion/graduation rates
+
 ●	Any applicable or relevant industry-specific accreditation standards
+
 ●	Student surveys were developed to investigate experiences around cost, quality, and need
 
 In addition, “moving beyond the checkmark” in program review requires increased data analysis. High-quality program reviews demonstrate contextualization of the data and its meanings within an institutional context. The study provides an opportunity to understand patterns, relationships, and trends with the program, and it considers speculation of assessment. Data utilization contributes to a deepened understanding of each program in a context that enables a process and results centered on continuous improvement. Incorporating data inquiry and results in the program review process supports the development of a culture of evidence, broadly defined as “environments in which decisions are based on facts, research, and analysis…where services are planned and delivered in ways that maximize outcomes and impacts for stakeholders” (Office of Quality Assurance, Carleton University, 2014).
