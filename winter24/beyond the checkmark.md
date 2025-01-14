@@ -1,6 +1,6 @@
 ---
 layout: article.liquid
-pageTitle: Beyond the Checkmark Transforming Program Review from Compliance to Strategic Development
+pageTitle: Transforming Program Review from Compliance to Strategic Development
 byline: By Jewel A. Bourne and Gianina Baker
 section: 
 readMore: 
