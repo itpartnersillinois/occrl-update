@@ -29,7 +29,8 @@ The original tool, developed for four-year institutions, is grounded on the Inst
 [Illustration showing institutional model for increasing faculty diversity](Picture 2 - STEM faculty.png)
 Image #2: Original *Institutional Model for Increasing Faculty Diversity* (Griffin et al, 2020, p. 7) 
 
-
+[alt text](Picture 3 - STEM faculty.png)
+Image #3: Here is the localized *Institutional Model for Increasing Faculty Diversity*, with key changes implemented to this updated model in red font (Baber et al., 2022, p. 6).    
 
 **What Areas Should be Examined Through the Self-Assessment Tool?**
 
