@@ -26,7 +26,10 @@ We have this data and know faculty diversity is an issue, but what is happening 
 To assist in efforts toward faculty diversity, we have localized the original Self-Assessment Tool to reflect the unique context of community colleges, mainly focusing on racial and gender disparities. By incorporating characteristics unique to community colleges, the localized Self-Assessment Tool will better reflect faculty diversity in STEM fields within these institutions. 
 The original tool, developed for four-year institutions, is grounded on the Institutional Model for Increasing Faculty Diversity (Griffin et al., 2020). The Model is a conceptual framework designed to understand the factors influencing faculty diversity. The Self-Assessment Tool suggests that to increase faculty diversity in meaningful ways, institutions should take a comprehensive approach by integrating four core areas—institutional context, recruitment, transition, and retention—rather than treating each area separately (Griffin, 2020).
 
-[More images here.]
+[Illustration showing institutional model for increasing faculty diversity](Picture 2 - STEM faculty.png)
+Image #2: Original *Institutional Model for Increasing Faculty Diversity* (Griffin et al, 2020, p. 7) 
+
+
 
 **What Areas Should be Examined Through the Self-Assessment Tool?**
 
