@@ -50,7 +50,7 @@ Giani, M. S. (2019). The Correlates of Credit Loss: How Demographics, Pre-Transf
 
 Hossler, D., Shapiro, D., Dundar, A., Ziskin, M., Chen, J., Zerquera, D., & Torres, V. (2012). Transfer and Mobility: A National View of Pre-Degree Student Movement in Postsecondary Institutions. Signature Report 2. National Student Clearinghouse.
 
-Illinois Community College Board. (2023). *STUDENT ENROLLMENTS AND COMPLETIONS*. https://www2.iccb.org/data/wpcontent/uploads/2023/12/Annual_Enroll	_Comp_2023.pdf
+Illinois Community College Board. (2023). [*Student Enrollments and Completions in the Illinois Community College System*](https://www2.iccb.org/data/wp-content/uploads/2023/12/Annual_Enroll_Comp_2023_Executive_Summary.pdf).
 
 Iskandarova, S. & Sloan, M. F. (2024). Enhancing College Students’ eAccessibility in Higher Education: Transfer Students and Transfer Admissions Counselors’ Perspectives. *Georgia Journal of College Student Affairs*, 40(1), 81–104.
 
@@ -68,7 +68,7 @@ Schudde, L., Bicak, I., & Meghan, S. (2023). Getting to the Core of Credit Trans
 
 Schudde, L., Bradley, D., & Absher, C. (2020). Navigating vertical transfers online: Access to and Usefulness of transfer information on community college websites. *Community College Review*, 48(1), 3-30.
 
-Sherman, J., & Shea, P. (2020). Interstate Passport®: The general education transfer highway. Georgia Journal of College Student Affairs 103 Change: The Magazine of Higher Learning, 52(1), 8–14. https://doi.org/10.1080/00091383.2020.1693814
+Sherman, J., & Shea, P. (2020). [Interstate Passport®: The general education transfer highway](https://www.tandfonline.com/doi/full/10.1080/00091383.2020.1693814). *Georgia Journal of College Student Affairs 103 Change: The Magazine of Higher Learning*, 52(1), 8–14.
 
 Stanback-Stroud, R. (1995). *Toward a Common Course Numbering System*. California Community Colleges, Sacramento. Academic Senate.
 
