@@ -7,7 +7,7 @@ readMore:
 ---
 <ilw-content width="page">
 
-headImage: /winter24/img/designer.jpg
+headImage: /winter24/img/facultydiversity.jpg
 
 ## Advancing STEM Faculty Diversity in Community Colleges by Localizing the Self-Assessment Tool
 
