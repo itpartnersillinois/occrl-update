@@ -66,51 +66,50 @@ The localized Self-Assessment Tool represents more than just an instrument for a
 
 Anafarta, A., & Apaydin, Ç. (2016). The Effect of Faculty Mentoring on Career Success and Career Satisfaction. *International Education Studies*, 9(6), 22-31.
 
-American Association of Community Colleges (AACC). (2018, June 6). [*DataPoints: Faculty and staff diversity*](https://www.aacc.nche.edu/2018/06/06/datapoints-faculty-and-staff-diversity). AACC - Building a Nation of Learners by Advancing America’s Community Colleges.https://www.aacc.nche.edu/2018/06/06/datapoints-faculty-and-staff-diversity/
+American Association of Community Colleges (AACC). (2018, June 6). [*DataPoints: Faculty and staff diversity*](https://www.aacc.nche.edu/2018/06/06/datapoints-faculty-and-staff-diversity). AACC - Building a Nation of Learners by Advancing America’s Community Colleges.
 
-American Association of Community Colleges (AACC). (2024, March 5). *DataPoints: Trends among adjunct/part-time instructors*. AACC - Building a Nation of Learners by Advancing America’s Community Colleges. https://www.aacc.nche.edu/2024/03/05/datapoints-trends-among-adjunct-part-time-instructors/
+American Association of Community Colleges (AACC). (2024, March 5). [*DataPoints: Trends among adjunct/part-time instructors*](https://www.aacc.nche.edu/2024/03/05/datapoints-trends-among-adjunct-part-time-instructors). AACC - Building a Nation of Learners by Advancing America’s Community Colleges.
 
 Baber, L., Leach, E., & Turpen, C. (2022, April). *Fostering institutional support for faculty diversity and inclusion in STEM education at community colleges* [PowerPoint slides]—National Institute for Staff and Organizational Development & ASPIRE Collaborative Internal Feedback Session.
 
 Bauer, T. N., Bodner, T., Erdogan, B., Truxillo, D. M., & Tucker, J. S. (2007). Newcomer adjustment during organizational socialization: A meta-analytic review of antecedents, outcomes, and methods. *Journal of Applied Psychology*, 92(3), 707–721
 
-Bowman, N. A., Logel, C., LaCosse, J., Jarratt, L., Canning, E. A., Emerson, K. T. U., & Murphy, M. C. (2022). Gender representation and academic achievement among STEM-interested students in college STEM courses. *Journal of Research in Science Teaching*, 59(10), 1876–1900. https://doi.org/10.1002/tea.21778
+Bowman, N. A., Logel, C., LaCosse, J., Jarratt, L., Canning, E. A., Emerson, K. T. U., & Murphy, M. C. (2022). [Gender representation and academic achievement among STEM-interested students in college STEM courses](https://doi.org/10.1002/tea.21778). *Journal of Research in Science Teaching*, 59(10), 1876–1900.
 
-Carrell, S. E., Page, M. E., & West, J. E. (2010). Sex and Science: How Professor Gender Perpetuates the Gender Gap. *The Quarterly Journal of Economics*, 125(3), 1101–1144. https://doi.org/10.1162/qjec.2010.125.3.1101
+Carrell, S. E., Page, M. E., & West, J. E. (2010). [Sex and Science: How Professor Gender Perpetuates the Gender Gap](https://doi.org/10.1162/qjec.2010.125.3.1101). *The Quarterly Journal of Economics*, 125(3), 1101–1144. 
 
-Casad, B. J., Franks, J. E., Garasky, C. E., Kittleman, M. M., Roesler, A. C., Hall, D. Y., & Petzel, Z. W. (2021). Gender inequality in academia: Problems and solutions for women faculty in STEM. *Journal of Neuroscience Research*, 99(1), 13–23. https://doi.org/10.1002/jnr.24631
+Casad, B. J., Franks, J. E., Garasky, C. E., Kittleman, M. M., Roesler, A. C., Hall, D. Y., & Petzel, Z. W. (2021). [Gender inequality in academia: Problems and solutions for women faculty in STEM](https://onlinelibrary.wiley.com/doi/10.1002/jnr.24631). *Journal of Neuroscience Research*, 99(1), 13–23.
 
-Chonody, J., Kondrat, D., Godinez, K., & Kotzian, A. (2023). Job Satisfaction amongst Social Work Faculty: The Role of Relationships. *Journal of Social Work Education*, 59(3), 803–817. https://doi-org.proxy2.library.illinois.edu/10.1080/10437797.2021.2019638
+Chonody, J., Kondrat, D., Godinez, K., & Kotzian, A. (2023). [Job Satisfaction amongst Social Work Faculty: The Role of Relationships](https://www.tandfonline.com/doi/full/10.1080/10437797.2021.2019638). *Journal of Social Work Education*, 59(3), 803–817.
 
 Cross, J. D., & Carman, C. A. (2022). The relationship between faculty diversity and student success in public community college. *Community College Journal of Research and Practice*, 46(12), 855–868.
 
-Dua, E., Sequeira, D.-L., & Shenoda, M. (2024). Going Beyond Employment Equity in Universities: Readiness as Emerging Practice. *Journal of Canadian Studies*, 58(2), 419–434. https://doi-org.proxy2.library.illinois.edu/10.3138/jcs-2024-0507
+Dua, E., Sequeira, D.-L., & Shenoda, M. (2024). Going Beyond Employment Equity in Universities: Readiness as Emerging Practice. *Journal of Canadian Studies*, 58(2), 419–434.
 
-Dyer-Barr, R. M. (2010). *The role and prevalence of faculty mentoring among African American and Latino undergraduates in different institutional contexts: A mixed methods study* (Doctoral dissertation)—University of Illinois at Urbana-Champaign.
+Dyer-Barr, R. M. (2010). [*The role and prevalence of faculty mentoring among African American and Latino undergraduates in different institutional contexts: A mixed methods study*](https://www.ideals.illinois.edu/items/15614) (Doctoral dissertation)—University of Illinois at Urbana-Champaign.
 
-Ganesan, B., Al-Jumaily, A., Fong, K. N. K., Prasad, P., Meena, S. K., & Tong, R. K.-Y. (2021). Impact of Coronavirus Disease 2019 (COVID-19) Outbreak Quarantine, Isolation, and Lockdown Policies on Mental Health and Suicide. *Frontiers in Psychiatry*, 12. https://doi.org/10.3389/fpsyt.2021.565190
+Ganesan, B., Al-Jumaily, A., Fong, K. N. K., Prasad, P., Meena, S. K., & Tong, R. K.-Y. (2021). [Impact of Coronavirus Disease 2019 (COVID-19) Outbreak Quarantine, Isolation, and Lockdown Policies on Mental Health and Suicide](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.565190/full). *Frontiers in Psychiatry*, 12.
 
-Griffin, K. A. (2020). Institutional Barriers, Strategies, and Benefits to Increasing the Representation of Women and Men of Color in the Professoriate: Looking Beyond the Pipeline. In L. W. Perna (Ed.), *Higher Education: Handbook of Theory and Research* (Vol. 35, pp. 1–73). Springer International Publishing.https://doi.org/10.1007/978-3-030-11743-6_4-1
+Griffin, K. A. (2020). [Institutional Barriers, Strategies, and Benefits to Increasing the Representation of Women and Men of Color in the Professoriate: Looking Beyond the Pipeline](https://link.springer.com/referenceworkentry/10.1007/978-3-030-11743-6_4-1). In L. W. Perna (Ed.), *Higher Education: Handbook of Theory and Research* (Vol. 35, pp. 1–73). Springer International Publishing.
 
-Griffin, K., Mabe, A., & Bennett, J. (2020). *A Guidebook for a Campus Self-Assessment of Successes and Challenges in STEM Faculty Diversity and Inclusion* (2020). OSF. https://doi.org/10.31219/osf.io/wm5ug
+Griffin, K., Mabe, A., & Bennett, J. (2020). [*A Guidebook for a Campus Self-Assessment of Successes and Challenges in STEM Faculty Diversity and Inclusion*](https://osf.io/preprints/osf/wm5ug) (2020). OSF. 
 
 Haiduk-Pollack, C. K. (2015). *Socialization of Adjunct Faculty at a Southern California Community College* (Doctoral dissertation). Walden University.
 
-Main, J. B. (2018). Kanter's theory of proportions: Organizational demography and PhD completion in science and engineering departments. *Research in Higher Education*, 59(8), 1059–1073. https://doi.org/10.1007/s11162-018-9499-x
+Main, J. B. (2018). [Kanter's theory of proportions: Organizational demography and PhD completion in science and engineering departments](https://link.springer.com/article/10.1007/s11162-018-9499-x). *Research in Higher Education*, 59(8), 1059–1073.
 
 McMurtrie, B. (2016). How Do You Create a Diversity Agenda? *Chronicle of Higher Education*, 62(36), A4–A6.
 
-National Science Board (NSB). (2021). *The STEM Labor Force of Today: Scientists, Engineers, and Skilled Technical Workers: Science, engineering, and health doctorate holders employed in academia by type of position, sex, and degree field: 1973–2019*. https://ncses.nsf.gov/pubs/nsb20212/data/table/SLBR-26
+National Science Board (NSB). (2021). [*The STEM Labor Force of Today: Scientists, Engineers, and Skilled Technical Workers: Science, engineering, and health doctorate holders employed in academia by type of position, sex, and degree field: 1973–2019*](https://ncses.nsf.gov/pubs/nsb20212/data/table/SLBR-26).
 
-Perna, L.W. (2023, January 09). Why We Need Better Data on Faculty Diversity. *Inside Higher Ed*. https://www.insidehighered.com/views/2023/01/10/why-we-need-better-data-faculty-diversity-opinion
+Perna, L.W. (2023, January 09). [Why We Need Better Data on Faculty Diversity](https://www.insidehighered.com/views/2023/01/10/why-we-need-better-data-faculty-diversity-opinion). *Inside Higher Ed*. 
 
-Price, J. (2010). The effect of instructor race and gender on student persistence in STEM fields. *Economics of Education Review*, 29(6), 901–910. https://doi.org/10.1016/j.econedurev.2010.07.009
+Price, J. (2010). [The effect of instructor race and gender on student persistence in STEM fields](https://www.sciencedirect.com/science/article/pii/S0272775710001111?via%3Dihub). *Economics of Education Review*, 29(6), 901–910.
 
-Reed, K. L. (2016). Finding More Like Us: Values and Practices for Hiring in Community Colleges. *Journal of Library Administration*, 56(1), 83–90. https://doi-org.proxy2.library.illinois.edu/10.1080/01930826.2015.1113062
+Reed, K. L. (2016). [Finding More Like Us: Values and Practices for Hiring in Community Colleges](https://www.tandfonline.com/doi/full/10.1080/01930826.2015.1113062). *Journal of Library Administration*, 56(1), 83–90.
 
-Stanley, C. A. (2006). Coloring the academic landscape: Faculty of color breaking the silence in predominantly White colleges and universities. *American Educational Research Journal*, 43(4), 701–736. https://doi.org/10.3102/00028312043004701
+Stanley, C. A. (2006). [Coloring the academic landscape: Faculty of color breaking the silence in predominantly White colleges and universities](https://journals.sagepub.com/doi/10.3102/00028312043004701). *American Educational Research Journal*, 43(4), 701–736.
 
-Stowe, J. B., Stowe, J., Self, S. W., Hochanadel, C., & Struble, K. (2023). Burnout in Virginia’s Community College Adjuncts with Relation to Gender, Age, and Number of Jobs. *Journal of Organizational Psychology*, 23(2). https://articlearchives.co/index.php/JOP/article/view/5367
+Stowe, J. B., Stowe, J., Self, S. W., Hochanadel, C., & Struble, K. (2023). [Burnout in Virginia’s Community College Adjuncts with Relation to Gender, Age, and Number of Jobs](https://articlearchives.co/index.php/JOP/article/view/5367). *Journal of Organizational Psychology*, 23(2).
 
 </ilw-content>
-
