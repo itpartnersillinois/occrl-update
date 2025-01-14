@@ -83,11 +83,17 @@ Once thought of as strictly a compliance activity of governing boards, program r
 **References**
 
 Bourne, J. A. (2021). Advancing Equity-conscious CTE Program Review via Cross-Campus Collaborations, Dialogue. *Voices and Viewpoints*, Office of Community College Research and Leadership.
-Carleton University (2014). Learning Outcomes Assessment Newsletter: What is a Culture of Evidence? *Office of Quality Assurance*. 
+
+Carleton University (2014). Learning Outcomes Assessment Newsletter: What is a Culture of Evidence? *Office of Quality Assurance*.
+
 Fox, H. L., Thrill, C., & Keist, J. (2018). Advancing Program Review: Evaluating and Envisioning the Future of Program Review at Illinois Community Colleges. Office of Community College Research and Leadership.
+
 Eggleston, T. (2020, July). *Program review and assessment for continuous improvement: Asking the right questions*. (Occasional Paper No. 48). Urbana, IL: University of Illinois and Indiana University, National Institute for Learning Outcomes Assessment.
-Georges, C. T., Jr., & Bourne, J. A. (2021). Advancing High-Quality Program Review for Student and Academic Support Services. *Insights on Equity and Outcomes*, (25), 1-6. Office of Community College Research and Leadership.  
+
+Georges, C. T., Jr., & Bourne, J. A. (2021). Advancing High-Quality Program Review for Student and Academic Support Services. *Insights on Equity and Outcomes*, (25), 1-6. Office of Community College Research and Leadership.
+
 Illinois Community College Board. (2021). *Program Review Manual Fiscal Year 2022-2026*.
+
 Thrill, C. (2019). Creating a space for student voice in advancing program review *[Issue brief]*.University of Illinois at Urbana-Champaign, Office of Community College Research and Leadership.
 
 </ilw-content>
