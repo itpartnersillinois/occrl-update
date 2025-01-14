@@ -39,7 +39,7 @@ Bailey, T. R., Jaggars, S. S., & Jenkins, D. (2015). *Redesigning America's Comm
 
 Brint, S. & Karabel J. (1989). *The Diverted Dream: Community Colleges and the Promise of Educational Opportunity in America, 1900-1985*. Oxford University Press.
 
-Crisp, G., & Nuñez, A. M. (2014). Understanding the racial transfer gap: Modeling Underrepresented Minority and Nonminority Students' Pathways from Two-to Four-Year     
+Crisp, G., & Nuñez, A. M. (2014). Understanding the racial transfer gap: Modeling Underrepresented Minority and Nonminority Students' Pathways from Two-to Four-Year
 Institutions. The Review of Higher Education, 37(3), 291-320.
 
 De los Santos, A., & Wright, I. (1990). Maricopa’s Swirling Students: Earning One-Third of Arizona State’s Bachelor’s Degrees. *Community, Technical, and Junior College Journal*, 60(6), 32–34.
