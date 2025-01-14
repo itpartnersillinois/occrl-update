@@ -17,7 +17,7 @@ Gender inequity in STEM fields presents another challenge. In 2019, only 8.7% of
 
 These findings underscore the urgent need to increase representation and improve working conditions for minoritized faculty at community colleges. Doing so is crucial for fostering the academic success and equity of historically underrepresented students within STEM. This brief summarizes a potential application aimed at sustaining and scaling faculty diversity within STEM disciplines at community colleges—an institutional self-assessment tool developed in collaboration between the Association of Public Land Grant Colleges and Universities (APLU), the Office of Community College Research and Leadership (OCCRL), and community college stakeholders across the country.
 
-[Images here.]
+[Illustration of 30 different faces](Picture 1 -STEM faculty.jpg)
 
 **How Can We Localize the Self-Assessment Tool?**
 
