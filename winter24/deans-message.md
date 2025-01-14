@@ -1,7 +1,5 @@
----
 layout: main.liquid
-pageTitle: Dean's Message
----
+pageTitle: Advancing STEM Faculty Diversity in Community Colleges by Localizing the Self-Assessment Tool
 
 <ilw-content theme="blue" padding="3.75rem 2.5rem" class="dean-intro">
 
