@@ -66,7 +66,7 @@ The localized Self-Assessment Tool represents more than just an instrument for a
 
 Anafarta, A., & Apaydin, Ç. (2016). The Effect of Faculty Mentoring on Career Success and Career Satisfaction. *International Education Studies*, 9(6), 22-31.
 
-American Association of Community Colleges (AACC). (2018, June 6). *DataPoints: Faculty and staff diversity*. AACC - Building a Nation of Learners by Advancing America’s Community Colleges.https://www.aacc.nche.edu/2018/06/06/datapoints-faculty-and-staff-diversity/
+American Association of Community Colleges (AACC). (2018, June 6). [*DataPoints: Faculty and staff diversity*](https://www.aacc.nche.edu/2018/06/06/datapoints-faculty-and-staff-diversity). AACC - Building a Nation of Learners by Advancing America’s Community Colleges.https://www.aacc.nche.edu/2018/06/06/datapoints-faculty-and-staff-diversity/
 
 American Association of Community Colleges (AACC). (2024, March 5). *DataPoints: Trends among adjunct/part-time instructors*. AACC - Building a Nation of Learners by Advancing America’s Community Colleges. https://www.aacc.nche.edu/2024/03/05/datapoints-trends-among-adjunct-part-time-instructors/
 
