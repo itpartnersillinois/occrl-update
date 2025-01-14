@@ -7,7 +7,7 @@ readMore:
 ---
 <ilw-content width="page">
 
-headImage: /winter24/img/designer.jpg
+headImage: /winter24/img/checkmark.jpeg
 
 ## Beyond the Checkmark: Transforming Program Review from Compliance to Strategic Development
 
