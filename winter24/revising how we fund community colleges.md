@@ -29,12 +29,17 @@ In conclusion, Illinois community colleges are vital educational and economic dr
 **References**
 
 Bransberger, P., Taylor, J., Lane, P., & Falkenstern, C. (2021). Evaluation of Idaho's Dual Credit 	Funding through Advanced Opportunities. *Western Interstate Commission for Higher 	Education*.
+
 Delaney, J. A., & Doyle, W. R. (2011). State spending on higher education: Testing the balance wheel over time. *Journal of Education Finance*, 343–368.
+
 Hu, X., & Fernandez, F. (2024). (rep.). Advancing Adequacy-Based Funding for Community Colleges in Illinois. Chicago, Illinois: Partnership for College Completion: Advancing Equity in Higher Education.
+
 Illinois Community College Board. (2024). (rep.). Illinois Community College Funding White Paper: Trends in Funding Principles, Mechanisms, and Measures.
-Kahlenberg, R. D., Shireman, R., Quick, K., & Habash, T. (2018). Policy strategies for pursuing adequate funding of community colleges. 
+
+Kahlenberg, R. D., Shireman, R., Quick, K., & Habash, T. (2018). Policy strategies for pursuing adequate funding of community colleges.
+
 Romano, R. M., & Palmer, J. C. (2023). Funding adequacy and the community college. *New Directions for Community Colleges*, 2023(203), 165-172.
-Shaw, K., Asher, L., & Murphy, S. (2022). Mapping community college finance systems to 
-develop equitable and effective finance policy.
+
+Shaw, K., Asher, L., & Murphy, S. (2022). Mapping community college finance systems to develop equitable and effective finance policy.
 
 </ilw-content>
