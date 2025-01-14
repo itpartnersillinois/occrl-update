@@ -67,7 +67,8 @@ For institutions that want to move program review beyond a compliance exercise, 
 **C. Utilizing Data** 
 The questions of program review teams can move beyond procedural obligations by expanding their use of data. Navigating institutions through the question identification process has significance in how data is requested, operationalized, analyzed, and interpreted. Incorporating data enables the broader understanding and contextualization of programs, fields of study, and the local and national industry landscape. Working with and exploring existing data identifies knowledge gaps for consideration and assessment. 
 
-Suggestions for expanded data inquiry can include: 
+Suggestions for expanded data inquiry can include:
+
 ●	Environmental scans or district demographic data
 
 ●	Regional labor market information
