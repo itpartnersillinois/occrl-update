@@ -1,47 +1,60 @@
-layout: main.liquid
-pageTitle: Advancing STEM Faculty Diversity in Community Colleges by Localizing the Self-Assessment Tool
-
-<ilw-content theme="blue" padding="3.75rem 2.5rem" class="dean-intro">
-
-![block I](/img/block-i.webp)
-
-## Connection Drives Us Forward
-
-Through interdisciplinary research, culturally responsive practice, and public engagement, Education at Illinois advances knowledge that drives society forward.
-
-</ilw-content>
-
+---
+layout: article.liquid
+pageTitle: Community Colleges Grapple with Implementation of DERA
+byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
+section: 
+readMore: 
+---
 <ilw-content width="page">
 
-![Dean Chrystalla Mouza, smiiling and looking confident](/img/dean.webp){.dean-left}
+headImage: /winter24/img/designer.jpg
 
-# Dean’s Message{.no-bottom-margin}
+## Community Colleges Grapple with Implementation of DERA: A Paradigm Shift in Developmental Education
 
-Connection is the catalyst for positive momentum. The success of Education at Illinois—and the field of education—relies on building and maintaining strong partnerships.
+**Introduction**
 
-Authentic connection is the product of great effort and intention, like the work we are excited to highlight in this **2024 Impact Report**.
+Illinois community colleges continue to innovate amid legislative changes and a recent shift in administering developmental education prompted by the Developmental Education Reform Act (DERA). Developmental education aims to support students with diverse needs and strengthen math, reading, and writing skills in preparation for college-level courses. However, racially minoritized students are disproportionately placed in development education courses and at lower levels, often requiring them to complete multiple pre-college courses (Brown, 2022; Chen & Simone, 2016). Researchers note that this placement creates greater equity gaps among students. Scholarship indicates that many community college students will test into developmental education courses, particularly in mathematics and language skills, for college-level coursework (Chen & Simone, 2016; Jaggars & Bickerstaff, 2018). In 2014, nearly half of the community college students in Illinois were placed into a developmental education course (Abrahamson & Power, 2024). 
 
-We proudly welcome 16 new tenure system and specialized faculty members to the College this year, providing expanded capacity for research collaboration and graduate student mentoring.
+Illinois enacted DERA as part of Illinois HB 2170, passed by the Illinois General Assembly and signed into law by Governor JB Pritzker in March of 2021 (110 ILCS 175/ Developmental Education Reform Act, 2021). DERA mandates that all 48 community colleges in Illinois reform their course placement evaluation to use a multiple-measure placement framework. The goal of DERA is to create equitable pathways for historically excluded students by considering a variety of metrics for holistic assessment of students’ abilities. This approach redirects students away from non-credit development coursework and modifies curriculum practices to include a co-requisite model.
 
-The College’s innovative programs and unmatched student experiences are connecting with the next generation of education leaders, as evidenced by our historic 2024 enrollment. We have the largest first-year student undergraduate class in 50 years, a testament to the excellence of our programs and the value they bring to our local, national, and international classrooms and educational workforce. We look forward to the creativity and insight these students’ endeavors will bring to our campus and beyond.
+**Emerging DERA Data and the Co-Requisiste Model Shift**
 
-Connection to underserved communities through teaching and service is a given for most educators, and the College’s commitment to community engagement goes above and beyond. We understand our university’s enduring land grant mission to serve the people of Illinois—and make it our mission to be connected and responsive to all groups of people.
+Recent FY23 data show that a co-requisite model yields better outcomes for students passing a developmental education course in math and English in their first or second academic year (Illinois Community College Board [ICCB], 2023). When examining student outcomes by race/ethnicity and socioeconomic status, Hispanic/Latine students demonstrated higher pass rates in math and English gateway courses during year one and when combining years one and two. Pass rates rose to (61% and 64% in math courses and 70% and 72% in English courses, respectively.
+In contrast, Black/African American students experienced gaps in their performance for both math and English outcomes. Only 43% of Black students taking the math gateway course passed in year one compared to 49% passing by year two. Approximately 57% of Black students passed the English gateway course in year one, and 62% passed the English gateway course by year two. The co-requisite model was identified as the best model by a significant margin across race/ethnicity and regardless of low-income status for math and English gateway courses (ICCB, 2023). These results point to the early impact of DERA.
 
-I look forward to staying connected with you over the coming year, and to leading the innovation, discovery, momentum, and community that drives our College and the University of Illinois forward.
+**Diffusion of Innovation**
 
-Yours in Orange & Blue,
+Ensuring the collective embrace of DERA-legislated change and supporting its broad and efficient implementation presents a different challenge. We draw upon Everett M. Rogers’ work elevating the Diffusion of Innovation Theory to help underscore some of the challenges and successes evident within DERA implementation. Rogers (2003) defines diffusion of innovation as “the process by which an innovation is communicated through certain channels over time among the members of a social system” (p. 11). He posits that four elements are critical to understanding the adoption process of an innovation:
 
-**Chrystalla Mouza**
-Dean, College of Education
+1.	the innovation itself, 
+2.	how it is shared or communicated with a broader audience, 
+3.	time, and 
+4.	alignment with the social system that would be engaging the innovation.
+   
+Rogers (2003) explains how various characteristics help determine whether an innovation is worth adopting, including the perception of "relative advantage," compatibility with the needs and values of users, and perceived ease of use or adoption. Communication is a critical component of the diffusion of innovation because Rogers (2003) acknowledges that the spread of information is "a social process that involves interpersonal communication relationships" (p. 19). These elements offer opportunities for rapid, intentional, and creative engagement of innovation—in this case, implementing a multi-measures approach to developmental placement as legislated by DERA. However, drawing from the Diffusion of Innovation Theory also uncovers potential barriers that can slow the enactment process. In earlier reporting, OCCRL researchers observed various responses to DERA implementation (Owolabi & Bennett, 2023).
+A primary challenge among institutions struggling to implement DERA relates to ‘buy-in’ from faculty. Many faculty members express concern that a multi-measures approach to placement could result in inaccurate results and incorrect student placements. This pushback suggests these institutions may perceive the legislation as incompatible with their needs, as Rogers (2003) notes. Other community colleges transitioned more quickly to a different placement model, partly because they were already moving in that direction. Establishing the legislative direction in those settings further supported emerging efforts already underway. Faculty participated in cross-campus collaboration and professional development that supported their learning and understanding of placement. Trustful relationships were built into these spaces, allowing for greater buy-in (Owolabi & Bennett, 2023). Trust bolsters influence, and information is more readily embraced and pursued in spaces that align innovation with the values of the social system.
+
+**Stakeholders Buy-In Presents Challenges to a Paradigm Shift in Community Colleges**
+
+Though early research demonstrates the benefits of DERA, less than 17% of colleges fully comply with the law (Abrahamson & Powers, 2024). Structural and cultural challenges with the implementation of DERA, such as a lack of resources and time to proceed with the implementation and slow adoption of inclusive practices, serve as consistent barriers. One significant challenge noted in the Year 1 DERA report from the Illinois Community College Board (ICCB) was grappling with “stakeholder buy-in” (Bennett et al., 2023). These challenges include faculty resistance to condensed developmental courses and new co-requisite models. Challenges on faculty buy-in regarding a new placement reform are driven by their pushback to utilize multiple measures, specifically GPA, due to grading inconsistencies across high schools. Concerns also arose around additional teaching loads with new co-requisite courses due to faculty turnover, the complex process of placement methods, and difficulty tracking those changes.
+
+**Strategies for Supporting DERA Implementation**
+
+Community colleges may consider the following strategies to address the challenges associated with implementing DERA: promoting cross-campus collaboration, encouraging deepened relationships between faculty and advisors, and supporting continued professional development. 
+
+**1. Cross-Campus Collaboration**
+
+Community colleges can strengthen stakeholder engagement and trust by encouraging collaboration and breaking departmental silos. A collaborative approach helps faculty and staff communicate effectively about developmental education courses, leading to a holistic and inclusive strategy for meeting student needs. According to Bennett et al. (2023), community colleges that fully align with DERA requirements cite cross-campus collaboration as key to their success. This cooperative framework clarifies roles, addresses challenges, coordinates placement scores, and meets diverse student needs. Teamwork also fosters trust among stakeholders and supports the implementation of developmental education models, including tutoring and other student-support initiatives. Such collaboration marks a critical step in evolving institutional practices for developmental education.
+
+Community college leaders can promote faculty–advisor partnerships to bolster student success. Edgecombe et al. (2013) note that decisions made by policymakers, administrators, and faculty during the planning and execution of reforms—particularly concerning program expansion, resource allocation, and stakeholder engagement—significantly affect long-term sustainability. This emphasis on engagement underscores how healthy relationships, effective communication, and mutual understanding of roles and needs are crucial to reform success. Faculty bring expertise about academic requirements, while advisors contribute perspectives on student support and resource needs. Together, they establish comprehensive support systems where faculty guide developmental education and advisors ensure students enroll in appropriate courses with adequate resources. Bennett et al. (2023) show how this collaboration can identify potential problems early and allow timely interventions to prevent adverse outcomes. This holistic approach reshapes developmental education from a purely remedial model to an interconnected, supportive framework that improves graduation rates and broadens accessibility.
+
+**2. Professional Development**
+
+College leaders can promote DERA's success by offering professional development opportunities that equip faculty and advisors with best practices. Professional development creates a space for faculty and advisors to share strategies, adopt new frameworks for teaching developmental education, and collaborate on integrated student support. According to OCCRL's DERA 2023 report (Bennett et al., 2023), faculty members who participate in professional development feel empowered to explore innovative approaches in developmental education. They also gain the authority to establish systems that center on students' needs. Ultimately, professional development enhances teaching skills and supportive advising practices, which helps shift campus culture toward a student-centered environment.
+
+**Conclusion**
+
+DERA has catalyzed a paradigm shift emphasizing adaptability and inclusivity in developmental education. Although it presents significant challenges for many Illinois community colleges, DERA has also introduced transformative practices, such as the co-requisite model and multi-measure placement systems. These reforms ensure equitable college readiness across all racial, ethnic, and socioeconomic groups, especially for underrepresented students (Bennett et al., 2023). Achieving DERA’s goals will require continued collaboration across and within institutions. Since many colleges are still in the early stages of DERA implementation, ongoing research and practice must focus on support systems and partnerships that can refine developmental education and better serve the most vulnerable students.
 
 </ilw-content>
 
-<ilw-content width="page">
-<div class="dean-illinois">
-
-![outline of the state of Illinois](/img/illinois-outline.webp) {.illinois}
-
-The University of Illinois Urbana-Champaign sits on the lands of the Peoria, Kaskaskia, Piankashaw, Wea, Miami, Mascoutin, Odawa, Sauk, Mesquaki, Kickapoo, Potawatomi, Ojibwe, and Chickasaw Nations. It is necessary for us to acknowledge these Native Nations and for us to work with them as we move forward as an institution. Over the next 150 years, we will be a vibrant community inclusive of all our differences, with Native peoples at the core of our efforts.
-
-</div>
-</ilw-content>
