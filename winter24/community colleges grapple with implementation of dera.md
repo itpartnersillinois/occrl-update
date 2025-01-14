@@ -58,22 +58,21 @@ DERA has catalyzed a paradigm shift emphasizing adaptability and inclusivity in 
 
 **References**
 
-Abrahamson, M., & Power, C. (2024). *A progress report on reforming developmental education in Illinois*. https://partnershipfcc.org/publications/a-progress-report-on-reforming-developmental-education-in-illinois/
+Abrahamson, M., & Power, C. (2024). [*A progress report on reforming developmental education in Illinois*](https://partnershipfcc.org/publications/a-progress-report-on-reforming-developmental-education-in-illinois/).
 
 Bennett, S., Owolabi, N., & Baber, L. (2023). *DERA implementation at Illinois community colleges: challenges and opportunities for course placement reform*. Office of Community College Research and Leadership College of Education (OCCRL).
 
-Chen, X. & Simone, S. (2016). *Remedial course taking at U.S. public 2- and 4-Year institutions: Scope, experiences, and outcomes* (NCES 2016-405). National Center for Education Statistics. https://nces.ed.gov/pubs2016/2016405.pdf
+Chen, X. & Simone, S. (2016). [*Remedial course taking at U.S. public 2- and 4-Year institutions: Scope, experiences, and outcomes*](https://nces.ed.gov/pubs2016/2016405.pdf) (NCES 2016-405). National Center for Education Statistics.
 
 Edgecombe, N. D., Cormier, M. S., Bickerstaff, S. E., & Barragan, M. (2013). *Strengthening developmental education reforms: Evidence on implementation efforts from the scaling innovation project*. CCRC.
 
-*110 ILCS 175/ Developmental Education Reform Act*. (2021). Illinois General Assembly.
-https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=4082&ChapterID=18
+[*110 ILCS 175/ Developmental Education Reform Act*](https://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=4082&ChapterID=18). (2021). Illinois General Assembly.
 
-Illinois Community College Board. (2023). *Developmental Education Reform Act: Status of Developmental Education and college-level coursework placement policy and outcomes in the Illinois Community College System Fiscal Year 2023*. https://www2.iccb.org/iccb/wp-content/pdfs/academic_affairs/2023%20ICCB%20Placement%20Policy%20and%20Outcomes%20Report%20FINAL%20v2.pdf
+Illinois Community College Board. (2023). [*Developmental Education Reform Act: Status of Developmental Education and college-level coursework placement policy and outcomes in the Illinois Community College System Fiscal Year 2023*](https://www2.iccb.org/iccb/wp-content/pdfs/academic_affairs/2023%20ICCB%20Placement%20Policy%20and%20Outcomes%20Report%20FINAL%20v2.pdf).
 
 Jaggars, S. S., & Bickerstaff, S. (2018). Developmental education: The evolution of research and reform. In M. Paulsen (Ed.), *Higher education: Handbook of theory and research*. (pp. 469–503). Springer.
 
-Owolabi, N., & Bennett, S. (2023, Fall). Reforming Developmental Education in Illinois. In *OCCRL UPDATE on Research and Leadership*, Fall 2023. Office of Community College Research and Leadership, University of Illinois at Urbana Champaign. http://online.anyflip.com/hhwk/anwo/
+Owolabi, N., & Bennett, S. (2023, Fall). [Reforming Developmental Education in Illinois](http://online.anyflip.com/hhwk/anwo/). In *OCCRL UPDATE on Research and Leadership*, Fall 2023. Office of Community College Research and Leadership, University of Illinois at Urbana Champaign.
 
 Rogers, E. (2003). *Diffusion of innovations* (5th ed.). Free Press.
 
