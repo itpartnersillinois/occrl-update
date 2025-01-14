@@ -7,7 +7,7 @@ readMore:
 ---
 <ilw-content width="page">
 
-headImage: /winter24/img/designer.jpg
+headImage: /winter24/img/funding.jpg
 
 ## Revising How We Fund the Vital Community Colleges in Illinois
 
