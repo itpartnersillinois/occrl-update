@@ -1,8 +1,8 @@
 ---
 layout: article.liquid
-pageTitle: OCCRL Leads its Second Illinois Community College Leadership Institute
-byline: By Sal Nudo
-section: Community
+pageTitle: Beyond the Checkmark: Transforming Program Review from Compliance to Strategic Development
+byline: By Jewel A. Bourne and Gianina Baker
+section: 
 ---
 <ilw-content width="page">
 
