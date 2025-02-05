@@ -3,7 +3,7 @@ header {
     padding: 40px;
     img#header-image {
         max-width: 100%;
-        width: 294px;
+        width: 197px;
     }
     p {
         color: var(--il-blue--il-blue, #13294b);
@@ -60,7 +60,7 @@ header {
         }
 
         img#header-image {
-            padding-left: 20px;
+            padding: 10px;
             width: calc(var(--menu-width) - 20px);
             border-bottom: 5px solid var(--il-orange);
             background: white;

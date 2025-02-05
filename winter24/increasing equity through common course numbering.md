@@ -3,13 +3,11 @@ layout: article.liquid
 pageTitle: Increasing Equity Through Common Course Numbering
 byline: By H.M. Kuneyl
 section: 
+permalink: "winter24/increasing_equity/index.html"
 readMore: 
+headImage: /winter24/img/common_course_numbering.jpeg
 ---
 <ilw-content width="page">
-
-headImage: /winter24/img/common course numbering.jpeg
-
-## Common Ground: Increasing Equity Through Common Course Numbering
 
 The legacy of the community college is built on increasing access to higher education by providing local opportunities to take college-level courses that will quickly transfer to four-year universities. Because of this reputation, the community college has become known as “democracy's college” (Kisker et al., 2024). However, transfer rates have yet to live up to this reputation. Eighty percent of community college students profess a desire to transfer to a four-year institution and earn a bachelor’s degree, yet fewer than 44% do so (Bailey et al., 2015; Jenkins & Fink, 2016). 
 
@@ -27,11 +25,11 @@ Hesitation to adopt CCN may stem from concerns about agreement between instituti
 
 There are three main reasons CCN should be considered for adoption in Illinois. One is that it would reduce stress on college personnel because it would no longer require acquisition and maintaining individual articulation agreements with various programs and institutions for lower-level courses (Giani, 2019; Kuneyl, 2024). A recent statewide meeting on transfer policies noted that a single community college has more than 40 articulation agreements with institutions across the Midwest. Multiplied by the number of public institutions in the state (60), the efficiency of CCNs suddenly becomes clear. Secondly, CCNs would increase credit transfer across institutions, which predicts transfer success (Kuneyl, 2022; Schudde & Bicak, 2023). Finally, CCN is one of the few state policies that can have a direct impact on the racial transfer gap because it increases the likelihood that low-income and racially minoritized students retain credits during transfer (Sherman and Shea, 2020).
 
-**Conclusion**
+## Conclusion ## 
 
 The accepted narrative and reputation of vertical transfer is that few students will be successful, and fewer will complete a bachelor’s degree. However, change is right before us if we can only recognize it, just like the strange red spade cards in the original paradigm shift study mentioned in Dr. Lorenzo Baber’s Director’s Note in this issue. It is time to question what we know about credit transfer and start again. We must reimagine the narrative of the transfer process from a community college to a four-year institution, and then we should act to make that goal a reality.
 
-**References**
+## References ## 
 
 Baber, L. D., Zamani-Gallaher, E. M., Stevenson, T. N., & Porter, J. (2019). From access to equity: Community Colleges and social justice imperative. Higher Education: Handbook of Theory and Research: Volume 34, 203-240.
 
