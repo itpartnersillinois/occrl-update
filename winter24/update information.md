@@ -20,17 +20,17 @@ Established in 1989 at the University of Illinois Urbana-Champaign, OCCRL is an 
 The UPDATE is prepared pursuant to a grant from ICCB (state award identification number AH165).
 
 Our mission is to use research and evaluation methods to improve policies, programs and practices to enhance community college education and transition to college for diverse learners at the state, national and international levels.
-Please send inquiries or comments to OCCRL at occrl@illinois.edu or call 217-244-9390.
+Please send inquiries or comments to OCCRL at [occrl@illinois.edu](occrl@illinois.edu) or call 217-244-9390.
 
 We encourage you to sign up for our biweekly newsletter, Network News.
 
 Follow OCCRL on Social Media!
 
-Facebook
-LinkedIn
-X
-Instagram
-YouTube
-Threads
+[Facebook](https://www.facebook.com/profile.php?id=100092361213456)
+[LinkedIn](https://www.linkedin.com/company/office-of-community-college-research-and-leadership)
+[X](https://x.com/occrl)
+[Instagram](https://www.instagram.com/theoccrl/)
+[YouTube](https://www.youtube.com/channel/UCZSxVqb0Gx5j4kT3o_Lm7Mg)
+[Threads](https://www.threads.net/@theoccrl)
 
 </ilw-content>
