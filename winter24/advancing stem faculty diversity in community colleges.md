@@ -4,7 +4,7 @@ pageTitle: Advancing STEM Faculty Diversity in Community Colleges by Localizing 
 byline: By Karla Velasco, Jeongsan Hwang, and Yasamin Khoshpour
 section: 
 permalink: "winter24/advancing_stem/index.html"
-headImage: /winter24/img/faculty_diversity.jpeg
+headImage: /winter24/img/faculty_diversity.webp
 readMore: 
 ---
 <ilw-content width="page">

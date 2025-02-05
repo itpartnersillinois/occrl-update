@@ -5,7 +5,7 @@ byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 section: 
 permalink: "winter24/community_colleges_dera/index.html"
 readMore: 
-headImage: /winter24/img/designer.png
+headImage: /winter24/img/designer.webp
 ---
 <ilw-content width="page">
 

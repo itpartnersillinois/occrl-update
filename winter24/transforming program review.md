@@ -5,7 +5,7 @@ byline: By Jewel A. Bourne and Gianina Baker
 section: 
 permalink: "winter24/transforming_program_review/index.html"
 readMore: 
-headImage: /winter24/img/checkmark.jpeg
+headImage: /winter24/img/checkmark.webp
 ---
 <ilw-content width="page">
 

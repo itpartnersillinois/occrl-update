@@ -5,7 +5,7 @@ byline: By Ayinde Rochon and Lorenzo Baber
 section: 
 permalink: "winter24/revising_how_we_fund/index.html"
 readMore: 
-headImage: /winter24/img/funding.jpeg
+headImage: /winter24/img/funding.webp
 ---
 <ilw-content width="page">
 

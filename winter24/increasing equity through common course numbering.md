@@ -5,7 +5,7 @@ byline: By H.M. Kuneyl
 section: 
 permalink: "winter24/increasing_equity/index.html"
 readMore: 
-headImage: /winter24/img/common_course_numbering.jpeg
+headImage: /winter24/img/common_course_numbering.webp
 ---
 <ilw-content width="page">
 
