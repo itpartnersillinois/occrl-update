@@ -37,7 +37,8 @@ module.exports = (function (eleventyConfig) {
       returnValue = returnValue.replace(currentButtonAria, currentButtonAria + ' class="menu-button-active"');
     }
     // adding give and archive links
-    returnValue += `<li class="line"><a class="menu-link" href="https://give.education.illinois.edu">Give</a></li>`;
+    returnValue += `<li class="line"><a class="menu-link" href="https://occrl.illinois.edu/">Office of Community College Research and Leadership</a></li>`;
+    returnValue += `<li><a class="menu-link" href="https://occrl.illinois.edu/our-products/news">Past UPDATE on Research and Leadership issues</a></li>`;
     // adding print links
     returnValue += `<li class="line"><p class="menu-share">Share</p>`;
     returnValue += `<div class="menu-share-links">`;
