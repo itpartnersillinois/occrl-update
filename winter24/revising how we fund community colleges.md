@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article_winter24.liquid
 pageTitle: Revising How We Fund the Vital Community Colleges in Illinois
 byline: By Ayinde Rochon and Lorenzo Baber
 section: 

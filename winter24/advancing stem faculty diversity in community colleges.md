@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article_winter24.liquid
 pageTitle: Advancing STEM Faculty Diversity in Community Colleges by Localizing the Self-Assessment Tool
 byline: By Karla Velasco, Jeongsan Hwang, and Yasamin Khoshpour
 section: 

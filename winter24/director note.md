@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article_winter24.liquid
 pageTitle: Director's Note
 byline: 
 section: 

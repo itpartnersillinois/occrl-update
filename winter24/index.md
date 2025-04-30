@@ -1,5 +1,5 @@
 ---
-layout: cover.liquid
+layout: cover_winter24.liquid
 pageTitle: Paradigm Shifts in Viewing and Supporting Community Colleges
 ---
 

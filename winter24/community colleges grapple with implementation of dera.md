@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article_winter24.liquid
 pageTitle: Community Colleges Grapple with Implementation of DERA
 byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 section: 

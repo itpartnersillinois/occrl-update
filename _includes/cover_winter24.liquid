@@ -6,13 +6,13 @@
     <body class="{{ bodyClass }}">
     <div class="page">
         <header>
-            {% include header.liquid %}
+            {% include header_winter24.liquid %}
         </header>
-        <main>
+        <main class="cover">
             {{ content }}
-            {% include arrows.liquid %}
+            {% include arrows_winter24.liquid %}
         </main>
+        {% include footer.liquid %}
     </div>
-    {% include footer.liquid %}
     </body>
 </html>

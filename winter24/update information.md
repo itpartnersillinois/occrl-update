@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article_winter24.liquid
 pageTitle: UPDATE on Research and Leadership
 byline: 
 section: 

@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article_winter24.liquid
 pageTitle: Transforming Program Review from Compliance to Strategic Development
 byline: By Jewel A. Bourne and Gianina Baker
 section: 

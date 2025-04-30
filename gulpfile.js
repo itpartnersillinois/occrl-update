@@ -11,24 +11,4 @@ gulp.task("styles", function () {
         .pipe(gulp.dest("style/"));
 });
 
-gulp.task("copy2020", function () {
-    return gulp.src('./archive2020/**')
-        .pipe(gulp.dest('./_site/archive2020'));
-});
-
-gulp.task("copy2021", function () {
-    return gulp.src('./archive2021/**')
-        .pipe(gulp.dest('./_site/archive2021'));
-});
-
-gulp.task("copy2022", function () {
-    return gulp.src('./archive2022/**')
-        .pipe(gulp.dest('./_site/archive2022'));
-});
-
-gulp.task("copy2023", function () {
-    return gulp.src('./archive2023/**')
-        .pipe(gulp.dest('./_site/archive2023'));
-});
-
 gulp.task("default", gulp.series("styles"));

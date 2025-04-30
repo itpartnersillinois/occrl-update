@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article_winter24.liquid
 pageTitle: Increasing Equity Through Common Course Numbering
 byline: By H.M. Kuneyl
 section: 
